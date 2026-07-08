@@ -30,7 +30,7 @@ cd server
 go run server.go
 ```
 
-2. Ajanı Görünmez Modda Derleme ve Çalıştırma  📌 (Başlık ve Kod Bloğu Düzenlendi)
+2. Ajanı Görünmez Modda Derleme ve Çalıştırma  📌 
 ```bash
 cd agent
 go build -ldflags="-H windowsgui" agent.go
