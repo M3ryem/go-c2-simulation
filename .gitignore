@@ -1,0 +1,9 @@
+# Derlenmiş dosyalar
+*.exe
+agent/agent.exe
+
+# Test sırasında sızdırılan / yüklenen geçici dosyalar
+*indirilen*
+*payload*
+hack.txt
+.vscode/
